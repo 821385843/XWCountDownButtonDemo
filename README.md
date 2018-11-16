@@ -1,10 +1,4 @@
-# XWCountDownButtonDemo
-XWCountDownButtonDemo
-
-[![CI Status](https://img.shields.io/travis/821385843@qq.com/XWPodLib.svg?style=flat)](https://travis-ci.org/821385843@qq.com/XWPodLib)
-[![Version](https://img.shields.io/cocoapods/v/XWPodLib.svg?style=flat)](https://cocoapods.org/pods/XWPodLib)
-[![License](https://img.shields.io/cocoapods/l/XWPodLib.svg?style=flat)](https://cocoapods.org/pods/XWPodLib)
-[![Platform](https://img.shields.io/cocoapods/p/XWPodLib.svg?style=flat)](https://cocoapods.org/pods/XWPodLib)
+XWCountDownButton_OC
 
 ## Example
 
@@ -14,17 +8,17 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-XWPodLib is available through [CocoaPods](https://cocoapods.org). To install
+XWCountDownButton_OC is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'XWPodLib'
+pod 'XWCountDownButton_OC'
 ```
 
 ## Author
 
-821385843@qq.com, 821385843@qq.com
+821385843@qq.com
 
 ## License
 
-XWPodLib is available under the MIT license. See the LICENSE file for more info.
+XWCountDownButton_OC is available under the MIT license. See the LICENSE file for more info.
