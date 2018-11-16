@@ -1,6 +1,6 @@
 XWCountDownButton_OC
 
-![输入图片说明](https://github.com/821385843/XWCountDownButtonDemo/img.gif "在这里输入图片标题")
+![输入图片说明](https://github.com/821385843/XWCountDownButtonDemo/blob/master/img.gif "在这里输入图片标题")
 
 ## Example
 
