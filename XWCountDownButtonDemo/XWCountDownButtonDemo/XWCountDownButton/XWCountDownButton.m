@@ -50,10 +50,10 @@
     dispatch_source_set_event_handler(_timer, ^{
         // 倒计时结束，关闭
         if (timeout <= 0) {
-            dispatch_source_cancel(_timer);
+            dispatch_source_cancel(self->_timer);
             dispatch_async(dispatch_get_main_queue(), ^{
                 weakSelf.userInteractionEnabled = YES;
-                [weakSelf setTitle:_title forState:UIControlStateNormal];
+                [weakSelf setTitle:self->_title forState:UIControlStateNormal];
             });
         } else {
             int seconds = timeout % weakSelf.totalTime;
