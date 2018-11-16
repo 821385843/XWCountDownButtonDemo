@@ -1,6 +1,5 @@
 # XWCountDownButtonDemo
 XWCountDownButtonDemo
-# XWPodLib(用来存放项目工程文件)
 
 [![CI Status](https://img.shields.io/travis/821385843@qq.com/XWPodLib.svg?style=flat)](https://travis-ci.org/821385843@qq.com/XWPodLib)
 [![Version](https://img.shields.io/cocoapods/v/XWPodLib.svg?style=flat)](https://cocoapods.org/pods/XWPodLib)
