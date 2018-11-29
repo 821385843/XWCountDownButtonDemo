@@ -8,7 +8,7 @@ XWCountDownButton_OC
 
 
 ## 说明
-需求：可以应用于短信验证码倒计时；
+应用场景：可以应用于短信验证码倒计时；
 
 ## Example
 
